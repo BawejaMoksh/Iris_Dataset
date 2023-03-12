@@ -22,6 +22,4 @@ we could have also loaded this dataset using
 
 Iris dataset is a  multi class classification. We have total of three class as seen in the figure. each class has its own 50 samples.which makes a total of 150 sample that we will work upon
 
-<h3>First Problem</h3>
 
-we are trying to find out attribute of each class in a data frame so that we could analyse its sepal length,petal length,petal widh etc.
